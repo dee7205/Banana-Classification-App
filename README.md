@@ -31,9 +31,16 @@ The system provides a user-friendly interface where users can upload images and 
 
 ### 1. Clone the Repository
 ```bash
+git clone https://github.com/dee7205/Banana-Classification-App.git
+cd Banana-Classification-App
+```
+
+*For the model training and others*
+```bash
 git clone https://github.com/WakenMac/SweetSpot-CNN-Banana-Ripeness-Classification-Model-MaS-LE.git
 cd SweetSpot-CNN-Banana-Ripeness-Classification-Model-MaS-LE
 ```
+
 ### 2. Install Dependencies
 It is recommended to use a virtual environment.
 ```
